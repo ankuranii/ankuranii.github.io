@@ -358,14 +358,6 @@ details.more > *:not(summary) { margin-top: 14px; }
   white-space: nowrap;
 }
 
-ul.plain {
-  margin: 0;
-  padding-left: 18px;
-  display: grid;
-  gap: 8px;
-}
-
-ul.plain li { font-size: 14px; }
 
 /* ---------------------------------------------------------------------------
    Footer
