@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    /* Theme-aware: the tab icon follows the viewer's browser theme. */
+    .bg { fill: #1772d0; }
+    .ch { fill: #ffffff; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #63a6f0; }
+      .ch { fill: #15161a; }
+    }
+  </style>
+  <rect class="bg" width="64" height="64" rx="14"/>
+  <text class="ch" x="32" y="45" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="38" font-weight="700">A</text>
+</svg>
